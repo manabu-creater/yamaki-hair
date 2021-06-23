@@ -82,6 +82,10 @@ header {
   margin-top: 40px;
 } */
 
+.ex-title {
+  width: 40%;
+}
+
 .heading h4 {
   margin: 1% 0;
   font-size: 110%;
@@ -101,10 +105,6 @@ header {
   border: 2px solid  black;
   padding: 1% 3%;
   font-size: 100%;
-}
-
-.ex-title {
-  width: 40%;
 }
 
 .content-img {
@@ -158,20 +158,19 @@ header {
   margin-bottom: 30%;
 }
 
-
 .coupon {
-  font-size: 180%;
-  background-color: black;
-  color: white;
-  width: 17%;
-  padding: 1% 5%;
-  margin-bottom: 2%;
+  text-align: center;
+}
+
+.coupons h1 {
+  text-align: left;
 }
 
 .coupon2 {
   margin: 3% 0;
   color: darkgoldenrod;
   font-size: 240%;
+  text-align: center;
 }
 
 .coupon-img {
@@ -233,7 +232,7 @@ header {
 }
 
 /* ここからstory */
-.stories {
+/* .stories {
   margin: 0 auto;
   width: 680px;
 }
@@ -280,7 +279,7 @@ header {
 .maintitle {
   font-family: georgia,serif;
   font-size: 120%;
-  /* border-bottom: 1px solid black; */
+  
 }
 
 .subtitle {
@@ -294,7 +293,7 @@ header {
   font-size: 80%;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin: 6px auto;
-}
+} */
 
 
 
@@ -363,7 +362,7 @@ header {
 
 
   .contents {
-    width: 650px;
+    width: 850px;
     margin: 20px auto;
   }
 
