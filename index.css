@@ -87,7 +87,6 @@ header {
 }
 
 .explain p {
-  
   white-space: nowrap;
 }
 
@@ -97,8 +96,8 @@ header {
 }
 
 .fa-check-square {
-  margin-top: 0.2%;
-/*   margin-right: 1%; */
+  margin-top: 0.8%;
+  margin-right: 1%;
 }
 
 .explain {
