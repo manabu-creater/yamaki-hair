@@ -87,7 +87,6 @@ header {
 }
 
 .explain p {
-  font-size: 12px;
   white-space: nowrap;
 }
 
@@ -102,7 +101,7 @@ header {
 }
 
 .explain {
-/*   display: flex; */
+  display: flex;
 }
 
 .content h3 {
