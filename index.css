@@ -157,7 +157,7 @@ header {
 }
 
 .ba-img {
-  width: 30%;
+  width: 20%;
   height: 18%;
   margin-top: 5%;
   margin-bottom: 30%;
@@ -171,17 +171,13 @@ header {
   text-align: left;
 }
 
-.coupon2 {
-  margin: 3% 0;
-  color: darkgoldenrod;
-  font-size: 240%;
-  text-align: center;
+.coupon-img {
+  width: 20%;
+  margin-bottom: 3%;
 }
 
-.coupon-img {
-  width: 30%;
-  height: 18%;
-  margin-bottom: 3%;
+.coupon-price {
+  width: 60%;
 }
 
 .reserve {
