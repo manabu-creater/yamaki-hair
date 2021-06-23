@@ -87,7 +87,8 @@ header {
 }
 
 .explain p {
-  font-size: 12px
+  font-size: 12px;
+  white-space: nowrap;
 }
 
 .heading h4 {
