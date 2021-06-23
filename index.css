@@ -86,6 +86,10 @@ header {
   width: 40%;
 }
 
+.explain p {
+  font-size: 6px
+}
+
 .heading h4 {
   margin: 1% 0;
   font-size: 110%;
