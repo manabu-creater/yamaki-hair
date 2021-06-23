@@ -32,14 +32,14 @@ header {
 .header-right {
   color: white;
   padding-top: 1%;
-  margin-right: 3%;
-  width: 50%;
+  padding-right: 3%;
+  width: 40%;
 }
 
 .header-right a {
   text-align: right;
   display: block;
-  font-size: 9６%;
+  font-size: 95%;
   flex-wrap: nowrap;
 }
 
@@ -56,10 +56,10 @@ header {
 }
 
 /* ここからメイン */
-.main {
+/* .main {
   width: 920px;
   margin: 20px auto;
-}
+} */
 
 .top-img {
   width: 920px;
@@ -67,13 +67,27 @@ header {
   display: block;
 }
 
-.heading h3 {
-  font-size: 120%;
+.contents {
+  width: 1100px;
+  margin: 20px auto;
+}
+
+/* .heading h3 {
+  font-size: 125%;
   color: white;
   background-color: black;
   width: 42.5%;
   padding-left: 2%;
   white-space: nowrap;
+  margin-top: 40px;
+} */
+
+.ex-title {
+  width: 40%;
+}
+
+.explain {
+  display: flex;
 }
 
 .content-img {
@@ -313,9 +327,9 @@ header {
 
  /* i pad  */
 @media screen and (max-width: 1000px) {
-  header {
+  /* header {
     width: 920px;
-  }
+  } */
 
   .header-right h4 {
     font-size: 130%;
