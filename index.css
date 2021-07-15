@@ -124,6 +124,9 @@ header {
 
 .procedure {
   display: flex;
+}
+
+.procedure p { 
   font-size: 140%;
 }
 
@@ -359,7 +362,7 @@ header {
   }
   
   .reserve p {
-    font-size: 100%;
+    font-size: 80%;
     flex-wrap: wrap;
   }
 
