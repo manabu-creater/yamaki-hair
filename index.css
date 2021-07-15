@@ -289,9 +289,6 @@ header {
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
   /* タブレット用レイアウト 600px以上の範囲に収めるデザインはこの中に記述 */
-  header {
-    /* width: 460px; */
-  }
 
   .logo {
     width: 90px;
@@ -309,22 +306,21 @@ header {
   }
 
   .top-img {
-    width: 360px;
+    width: 340px;
     margin: 10px auto;
   }
 
-  .main {
+  /* .main {
     margin: 20px 10px;
-    width: 420px;
-  }
+    width: 380px;
+  } */
 
   .contents, .change, .coupons, .reserve {
-    /* margin: 20px 20px; */
-    width: 420px;
+    width: 360px;
   }
 
   .content {
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
   }
 
@@ -333,11 +329,11 @@ header {
   }
 
   .content h3 {
-    font-size: 100%;
+    font-size: 80%;
   }
 
   .titles {
-    width: 440px;
+    width: 360px;
     margin: 20px auto;
   }
 
@@ -350,21 +346,21 @@ header {
     margin-top: 2%;
   }
 
-  .title1 p, .title2 p, .title3 p {
+  .procedure p {
     flex-wrap: wrap;
     font-size: 60%;
     width: 350px;
     margin-top: initial;
-
   }
 
   .coupon-price1 {
     width: 300px;
     height: 40px;
   }
-
+  
   .reserve p {
-    font-size: 6px;
+    font-size: 100%;
+    flex-wrap: wrap;
   }
 
 }
