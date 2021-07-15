@@ -327,12 +327,16 @@ header {
     margin: 0 auto;
   }
 
+  .ex-title {
+    width: 55%;
+  }
+
   .content h4 {
-    font-size: 85%;
+    font-size: 75%;
   }
 
   .content h3 {
-    font-size: 80%;
+    font-size: 70%;
   }
 
   .titles {
@@ -353,12 +357,15 @@ header {
     flex-wrap: wrap;
     font-size: 60%;
     width: 350px;
-    margin-top: initial;
   }
 
   .coupon-price1 {
     width: 300px;
     height: 40px;
+  }
+
+  .coupon-price2 {
+    width: 75%;
   }
   
   .reserve p {
