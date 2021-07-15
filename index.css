@@ -328,7 +328,7 @@ header {
   }
 
   .ex-title {
-    width: 55%;
+    width: 65%;
   }
 
   .content h4 {
@@ -360,8 +360,8 @@ header {
   }
 
   .coupon-price1 {
-    width: 300px;
-    height: 40px;
+    width: 250px;
+    height: 30px;
   }
 
   .coupon-price2 {
