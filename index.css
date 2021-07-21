@@ -135,10 +135,31 @@ header {
   flex-wrap: nowrap;
 }
 
-.change {
+change {
   margin-top: 10%;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
   font-size: 200%;
+}
+
+.ba-img {
+  width: 20%;
+  margin-top: 5%;
+}
+
+.media {
+  width: 920px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introduce {
+  font-size: 120%;
+}
+
+.video {
+  width: 250px;
+  height: 350px;
+  margin-right: 60px;
 }
 
 .ba-img {
@@ -222,72 +243,6 @@ header {
   text-decoration:underline solid black;
 }
 
-/* ここからstory */
-/* .stories {
-  margin: 0 auto;
-  width: 680px;
-}
-
-.story {
-  display: flex;
- 
-  flex-wrap: wrap;
-}
-
-.story-title {
-  background-color: black;
-  color: white;
-  padding: 0.5%;
-  margin-top: 5%;
-  width: 350px;
-}
-
-
-
-.boxes {
-  border: 1px solid lightgray;
-  padding: 1% 1%;
-  width: 300px;
-  margin: 1% 1%;
-}
-
-.salon {
-  width: 275px;
-  height: 190px;
-  margin: 0 auto;
-  display: block;
-}
-
-.mb10 {
-  width: 275px;
-  margin: 0 auto;
-}
-
-.mb10 span {
-  border-bottom: 1px solid black;
-}
-
-.maintitle {
-  font-family: georgia,serif;
-  font-size: 120%;
-  
-}
-
-.subtitle {
-  font-size: 60%;
-  text-align: right;
-  padding-bottom: 3px;
-}
-
-.boxes p {
-  width: 275px;
-  font-size: 80%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin: 6px auto;
-} */
-
-
-
 
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
@@ -312,11 +267,6 @@ header {
     width: 340px;
     margin: 10px auto;
   }
-
-  /* .main {
-    margin: 20px 10px;
-    width: 380px;
-  } */
 
   .contents, .change, .coupons, .reserve {
     width: 360px;
@@ -357,6 +307,20 @@ header {
     flex-wrap: wrap;
     font-size: 60%;
     width: 350px;
+  }
+  
+  .media {
+    width: 360px;
+  }
+
+  .introduce {
+    font-size: 60%;
+  }
+
+  .video {
+    width: 100px;
+    height: 180px;
+    margin-right: 20px;
   }
 
   .coupon-price1 {
