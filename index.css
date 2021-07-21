@@ -251,7 +251,7 @@ header {
   }
   
   .header-right {
-    width: 43%;
+    width: 41%;
   }
 
   .header-right a {
@@ -265,7 +265,7 @@ header {
   .top-img {
     width: 340px;
     margin: 10px auto;
-  }
+  }　
 
   .contents, .change, .coupons, .reserve {
     width: 360px;
