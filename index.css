@@ -131,7 +131,7 @@ header {
 }
 
 .supplement {
-  font-size: 80%;
+  font-size: 120%;
   flex-wrap: nowrap;
 }
 
@@ -231,7 +231,7 @@ header {
 }
 
 .reserve p {
-  font-size: 120%;
+  font-size: 140%;
   /* border-bottom: double 1px black; */
   text-decoration:underline solid black;
 }
@@ -300,6 +300,10 @@ header {
     flex-wrap: wrap;
     font-size: 60%;
     width: 350px;
+  }
+  
+  .supplement {
+    font-size: 70%;
   }
   
   .media {
