@@ -249,6 +249,10 @@ header {
     margin: 7% auto;
     display: block;
   }
+  
+  .header-right {
+    width: 43%;
+  }
 
   .header-right a {
     font-size: 60%;
