@@ -270,6 +270,11 @@ header {
   .contents, .change, .coupons, .reserve {
     width: 360px;
   }
+  
+  .contents {
+    width: 360px;
+    margin: 20px auto;
+  }
 
   .content {
     width: 360px;
