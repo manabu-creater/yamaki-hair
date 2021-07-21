@@ -131,7 +131,8 @@ header {
 }
 
 .supplement {
-  font-size: 120%;
+  margin-top: 2%;
+  font-size: 140%;
   flex-wrap: nowrap;
 }
 
