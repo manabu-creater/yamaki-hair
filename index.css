@@ -166,8 +166,8 @@ change {
   text-align: center;
 }
 
-.coupons h1 {
-  text-align: left;
+.coupons {
+  margin-bottomo: 80px;
 }
 
 .coupon-img {
