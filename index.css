@@ -138,7 +138,6 @@ header {
 .change {
   margin-top: 10%;
   margin-bottom: 5%;
-  font-size: 200%;
 }
 
 .ba-img {
@@ -308,7 +307,7 @@ header {
   }
 
   .introduce {
-    font-size: 120%;
+    font-size: 100%;
   }
 
   .video {
