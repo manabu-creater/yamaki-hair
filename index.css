@@ -342,3 +342,85 @@ header {
   }
 
 }
+
+/* i pad  */
+@media screen and (max-width: 1000px) {
+  .top-img {
+    width: 700px;
+    margin: 20px auto;
+  }
+
+  .contents, .change, .coupons, .reserve {
+    width: 700px;
+  }
+
+  .content {
+    width: 700px;
+    margin: 0 auto;
+  }
+
+  .ex-title {
+    width: 55%;
+  }
+
+  .content h4 {
+    font-size: 95%;
+  }
+
+  .content h3 {
+    font-size: 90%;
+  }
+
+  .titles {
+    width: 700px;
+    margin: 20px auto;
+  }
+
+  .explain p {
+    flex-wrap: wrap;
+    font-size: 80%;
+  }
+
+  .content-img {
+    margin-top: 2%;
+  }
+
+  .procedure p {
+    flex-wrap: wrap;
+    font-size: 80%;
+    width: 700px;
+  }
+
+  .supplement {
+    font-size: 90%;
+  }
+
+  .media {
+    width: 700px;
+  }
+
+  .introduce {
+    font-size: 95%;
+  }
+
+  .video {
+    width: 150px;
+    height: 180px;
+    margin-right: 20px;
+  }
+
+  .coupon-price1 {
+    width: 400px;
+    height: 40px;
+  }
+
+  .coupon-price2 {
+    width: 75%;
+  }
+  
+  .reserve p {
+    font-size: 100%;
+    flex-wrap: wrap;
+  }
+
+}
