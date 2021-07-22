@@ -50,7 +50,7 @@ header {
 
 .logo {
   width: 180px;
-  height: 81px;
+  height: 101px;
   margin: 7% auto;
   display: block;
 }
@@ -244,8 +244,8 @@ header {
   /* タブレット用レイアウト 600px以上の範囲に収めるデザインはこの中に記述 */
 
   .logo {
-    width: 90px;
-    height: 40px;
+    width: 80px;
+    height: 55px;
     margin: 7% auto;
     display: block;
   }
@@ -357,6 +357,11 @@ header {
 
   .contents, .change, .coupons, .reserve {
     width: 700px;
+  }
+  
+  .logo {
+    width: 130px;
+    height: 75px;
   }
 
   .content {
