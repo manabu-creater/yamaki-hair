@@ -49,8 +49,8 @@ header {
 }
 
 .logo {
-  width: 180px;
-  height: 101px;
+  width: 220px;
+  height: 120px;
   margin: 7% auto;
   display: block;
 }
@@ -360,8 +360,8 @@ header {
   }
   
   .logo {
-    width: 130px;
-    height: 75px;
+    width: 90px;
+    height: 55px;
   }
 
   .content {
