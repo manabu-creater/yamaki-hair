@@ -38,18 +38,14 @@ header {
   text-align: right;
 }
 
-.header-right h5 {
-  font-size: 130%;
-}
-
-.header-right h4 {
-  font-size: 180%;
+.header-right h6 {
+  font-size: 170%;
   text-align: right;
 }
 
 .logo {
   width: 220px;
-  height: 120px;
+  height: 150px;
   margin: 7% auto;
   display: block;
 }
@@ -92,6 +88,11 @@ header {
   text-align: center;
 }
 
+.titles {
+  width: 900px;
+  margin: 0 auto;
+}
+
 .title1 span, .title2 span, .title3 span {
   color: blue;
   font-weight: bold;
@@ -107,12 +108,12 @@ header {
 }
 
 .title-img {
-  width: 50%;
+  width: 500px;
   margin-bottom: 2%;
 }
 
 .title-img2 {
-  width: 50%;
+  width: 600px;
   margin-bottom: 2%;
 }
 
@@ -286,11 +287,14 @@ header {
 
   .titles {
     width: 360px;
-    margin: 20px auto;
   }
 
   .title-img {
     width: 60%;
+  }
+
+  .procedure {
+    text-align: center;
   }
   
   .title-img2 {
@@ -302,12 +306,19 @@ header {
     font-size: 60%;
   }
 
-  .content-img, .content-img2 {
-    height: 120px;
+  .content-img2 {
+    width: 180px;
+    height: 130px;
   }
 
-  .content-img3 {
-    height: 130px;
+  .content-img, .content-img3 {
+    height: 120px;
+    width: 180px;
+  }
+
+  .procedure {
+    flex-direction: column;
+    
   }
 
   .procedure p {
