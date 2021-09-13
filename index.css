@@ -253,6 +253,7 @@ header {
 
   .header-right h6 {
     font-size: 60%;
+    white-space: nowrap;
   }
 
   .top-img {
