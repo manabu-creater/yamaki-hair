@@ -249,6 +249,7 @@ header {
   .header-right {
     width: 48%;
     margin-top: 15px;
+    padding-right: 1%;
   }
 
   .header-right h6 {
