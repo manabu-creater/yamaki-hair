@@ -170,7 +170,7 @@ header {
 
 .coupons {
   text-align: left;
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 .coupon-img {
@@ -254,7 +254,6 @@ header {
 
   .header-right h6 {
     font-size: 60%;
-    white-space: nowrap;
   }
 
   .top-img {
@@ -349,6 +348,7 @@ header {
   .coupon-price1 {
     width: 300px;
     height: 40px;
+    margin-bottom: 20px;
   }
 
   .coupon-price2 {
