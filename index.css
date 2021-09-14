@@ -242,18 +242,19 @@ header {
   .logo {
     width: 110px;
     height: 65px;
-    margin: 7% 0 7% auto;
+    margin: 7% 10px 7% auto;
     display: block;
   }
 
   .header-right {
     width: 48%;
-    margin-top: 15px;
+    margin-top: 20px;
     padding-right: 1%;
   }
 
   .header-right h6 {
     font-size: 60%;
+    white-space: nowrap;
   }
 
   .top-img {
