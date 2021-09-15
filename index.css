@@ -300,6 +300,11 @@ header {
     width: 70%;
     margin-bottom: 15px;
   }
+  
+  .title-img3 {
+    width: 40%;
+    margin-bottom: 15px;
+  }
 
   .explain p {
     flex-wrap: wrap;
